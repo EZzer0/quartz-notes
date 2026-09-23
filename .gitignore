@@ -12,3 +12,5 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
+# keep sync script tracked
+!sync-notes.ps1
